@@ -1,15 +1,21 @@
 # Hi, I’m Aubrey! 🐰 
 - I am a high-school student interested in UI/UX and graphic design.
-- 🚧 **WIP:** Come back soon.
 
-## **Specialization**
+## **My Software and Tools**
 
-> ``.psd``, ``.ai``, ``xd``, ``.id``, ``.fig``
+**Software + Tools**
+
+> ``.psd``, ``.ai``, ``xd``, ``.id``, ``.swift``
+
+**Databases and Cloud Hosting**
+
+> ``Notion``, ``Heroku``
 
 ## **Learning**
 
-> ``.html``,``css``
+> ``.html``, ``css``, ``.js``
 
+🚧 **WIP:** Keep checking back!!!
 <!---
 oburi/oburi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
